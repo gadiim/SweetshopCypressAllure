@@ -43,4 +43,4 @@ Allure is used for generating detailed test reports, providing insights into tes
 
 **GitHub Pages:** 
 
-The project utilizes GitHub Pages for hosting and displaying the test reports. You can view the test reports [here](https://github.com/SweetshopCypressAllure)
+The project utilizes GitHub Pages for hosting and displaying the test reports. You can view the test reports [here](https://gadiim.github.io/SweetshopCypressAllure/)
