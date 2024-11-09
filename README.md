@@ -2,7 +2,7 @@
 
 **Objective:**  
 
-The project is designed to automate the testing of basket functionality on the Sweetshop website. The purpose of these tests is to verify the correct addition of items to the basket, the calculation of the total purchase amount, the change of delivery type, and the completion of the checkout form.
+The project is designed to automate the testing of basket functionality on the [Sweetshop](https://sweetshop.netlify.app/) website. The purpose of these tests is to verify the correct addition of items to the basket, the calculation of the total purchase amount, the change of delivery type, and the completion of the checkout form.
 
 **Tools:**  
 - Cypress (for automated testing)
