@@ -1,0 +1,15 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St",
+    "address2": "Apt 4B",
+    "country": "United States",
+    "city": "New York",
+    "zip": "10001",
+    "ccName": "John Doe",
+    "ccNumber": "4111111111111111",
+    "ccExpiration": "12/23",
+    "ccCVV": "123"
+  }
+  
