@@ -7,7 +7,10 @@
     "test": "npx cypress run --spec cypress/e2e/tests/sweetshop.cy.js --config-file config/config.config.ts --env allure=true",
     "generate-report": "allure generate allure-results --clean",
     "open-report": "allure open allure-report",
-    "clear": "rm -r reports/** || true"
+    "clear": "rm -r reports/** || true",
+    "cy:run": "npx cypress run --spec cypress/e2e/tests/sweetshop.cy.js --config-file config/config.config.ts --env allure=true", 
+    "allure:generate": "allure generate allure-results --clean", 
+    "allure:open": "allure open allure-report"
   },
   "keywords": [
     "cypress",
