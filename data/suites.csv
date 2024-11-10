@@ -1,2 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","174","An uncaught error was detected outside of a test","","Sat Nov 09 19:44:06 UTC 2024","failed","Sat Nov 09 19:44:06 UTC 2024","","","",""
+"","9394","Fill the details and click on checkout","","Sun Nov 10 02:07:08 UTC 2024","passed","Sun Nov 10 02:07:17 UTC 2024","","Sweetshop Basket Functionality Test","",""
+"","4091","Change delivery type to Standard Shipping and verify total price","","Sun Nov 10 02:07:04 UTC 2024","failed","Sun Nov 10 02:07:08 UTC 2024","","Sweetshop Basket Functionality Test","",""
+"","4149","Verify all selected items are present in basket","","Sun Nov 10 02:06:56 UTC 2024","failed","Sun Nov 10 02:07:00 UTC 2024","","Sweetshop Basket Functionality Test","",""
+"","3077","Verify total price in GBP is correct","","Sun Nov 10 02:07:00 UTC 2024","passed","Sun Nov 10 02:07:04 UTC 2024","","Sweetshop Basket Functionality Test","",""
