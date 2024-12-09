@@ -45,3 +45,7 @@ Allure is used for generating detailed test reports, providing insights into tes
 **GitHub Pages:** 
 
 The project utilizes GitHub Pages for hosting and displaying the test reports. You can view the test reports [here](https://gadiim.github.io/SweetshopCypressAllure/)
+
+**License:**
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project. See the [LICENSE](./LICENSE.txt) file for more details.
