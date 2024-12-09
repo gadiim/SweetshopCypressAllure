@@ -1,4 +1,5 @@
-## Sweetshop Basket Functionality Test
+## Sweetshop Basket Functionality Test  ![CI](https://github.com/gadiim/SweetshopCypressAllure/actions/workflows/cyAllureRun.yml/badge.svg)
+
 
 **Objective:**  
 
